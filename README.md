@@ -29,7 +29,10 @@ The United States faces a myriad of health challenges, ranging from rising obesi
 Exhaust different algorithmic approaches to fine tuning the model for the multi-dimensional data.
 
 ## References
-PowerPoint- \
-Tableau- \
-Workflow- \
+PowerPoint-
+
+Tableau- 
+
+Workflow- 
+
 Dataset- \ 
