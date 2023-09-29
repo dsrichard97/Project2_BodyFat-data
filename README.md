@@ -2,7 +2,7 @@
 * Collaborators: Richard Diazdeleon
 * Date: TBD
 
-<img src="corr_matrix.png" width= 600 height=300>	
+<img src="cdc.png" width= 600 height=300>	
 
 ## Introduction
 The United States faces a myriad of health challenges, ranging from rising obesity rates to increasing incidences of chronic diseases. Understanding these challenges requires a comprehensive and nuanced analysis of health and nutritional data. The National Health and Nutrition Examination Survey (NHANES) offers a rich dataset that combines interviews and physical examinations to assess the health and nutritional status of adults and children in the United States. This project aims to leverage this data to provide insights into the distribution of various health metrics, the correlation between nutritional intake and health outcomes, and trends in the prevalence of certain diseases over time. By employing advanced statistical methods and machine learning algorithms, this project seeks to not only describe the current state of health in the U.S. but also to predict future trends and identify areas for intervention.
