@@ -1,4 +1,4 @@
-## Project2: Anomaly Detection for Outliers in Health Metrics
+## [Project2: Anomaly Detection for Outliers in Health Metrics](https://github.com/dsrichard97/exploratory_analysis.git)
 * Collaborators: Richard Diazdeleon
 * Date: TBD
 
